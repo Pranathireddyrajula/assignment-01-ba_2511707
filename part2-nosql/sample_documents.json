@@ -1,0 +1,37 @@
+[
+    {
+      "product_id": "E1",
+      "name": "iPhone 14",
+      "category": "Electronics",
+      "price": 70000,
+      "specs": {
+        "warranty": "1 year",
+        "voltage": "220V",
+        "brand": "Apple"
+      },
+      "features": ["5G", "Dual Camera", "128GB Storage"]
+    },
+    {
+      "product_id": "C1",
+      "name": "Men T-Shirt",
+      "category": "Clothing",
+      "price": 999,
+      "details": {
+        "size": "L",
+        "color": "Black",
+        "material": "Cotton"
+      },
+      "available_sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "product_id": "G1",
+      "name": "Milk",
+      "category": "Groceries",
+      "price": 50,
+      "expiry_date": "2024-12-30",
+      "nutrition": {
+        "calories": 150,
+        "protein": "8g"
+      }
+    }
+  ]
